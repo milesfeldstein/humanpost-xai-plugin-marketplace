@@ -559,8 +559,8 @@
       }
     },
     "humanpost": {
-      "sha": "94e768d62667b237176dbadfe1af43303992e3cf",
-      "version": "1.0.0",
+      "sha": "371f485902b7df60a62601431847d29a844086b5",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {
